@@ -8,6 +8,7 @@ Shared skins repository for **Custom Knight** and **HKMP**.
 | :--- | :--- |
 | **Grub** | `1` |
 | **Hornyt** | `2` |
+| **Void Knight** | `3` |
 
 ## Setup Instructions
 
